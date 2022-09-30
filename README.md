@@ -30,10 +30,10 @@
 
 ### My favorite projects 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-red&layout=compact&repo=iBot-Discord-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-purple&layout=compact&repo=iBot-Discord-Bot)
 ](https://github.com/InstancedDev/iBot-Discord-Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-red&layout=compact&repo=Creamsicle-Discord-Theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-purple&layout=compact&repo=Creamsicle-Discord-Theme)
 ](https://github.com/InstancedDev/Creamsicle-Discord-Theme) 
 
 <br>
@@ -57,5 +57,5 @@
 <br>
 <br>
 
-[![InstancedDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=InstancedDev&theme=midnight-red&show_icons=true)](https://instancedweb.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InstancedDev&theme=midnight-red&layout=compact)](https://instnacedweb.com)
+[![InstancedDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=InstancedDev&theme=midnight-purple&show_icons=true)](https://instancedweb.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InstancedDev&theme=midnight-purple&layout=compact)](https://instnacedweb.com)
