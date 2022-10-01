@@ -16,7 +16,7 @@
 <br>
 <ul>
   <li><b>I'm currently working on a game in Roblox Studio 💻</b></li>
-  <li><b>Website : <a href="https://devevil.com">InstancedWeb.com 🌐</a></b></li>
+  <li><b>Website : <a href="https://InstancedWeb.com">InstancedWeb.com 🌐</a></b></li>
   <li><b>Discord Server : <a href="https://dsc.gg/instanceddev">Instanced Community ⚡</a></b></li>
 <li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/InstancedDev">InstancedDev 🌌</a></b></li>
 <li><b>Instagram : <a href="https://instagram.com/instancedgramm">InstancedGram ⚜</a></b></li>
