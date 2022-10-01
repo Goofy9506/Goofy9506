@@ -28,14 +28,6 @@
 </ul>
 <br><br>
 
-### My favorite projects 💻
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-purple&layout=compact&repo=iBot-Discord-Bot)
-](https://github.com/InstancedDev/iBot-Discord-Bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InstancedDev&theme=midnight-purple&layout=compact&repo=Creamsicle-Discord-Theme)
-](https://github.com/InstancedDev/Creamsicle-Discord-Theme) 
-
 <br>
 <h3>Some of the Languages, Tools & etc that i use: 🔧</h3>
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;"></a></code>
