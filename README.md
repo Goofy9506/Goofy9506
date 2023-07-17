@@ -1,21 +1,22 @@
-## Yo its just goofy!
+## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+### 👨🏻‍ &nbsp;About Me
+- 💻 I'm currently working as backend developer
+- 💻 I'm currently learning cloud engineering
 
-<br>
-<h3>Some of the Languages, Tools & etc that i use: 🔧</h3>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Lua-05DCDB?style=for-the-badge&logo=lua&logoColor=027D7C"><img height="20" src="https://img.shields.io/badge/Lua-05DCDB?style=for-the-badge&logo=lua&logoColor=027D7C" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><img height="20" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15"><img height="20" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"><img height="20" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15"><img height="20" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"><img height="20" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"><img height="20" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/OperaGX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"><img height="20" src="https://img.shields.io/badge/OperaGX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" style="max-width:100%;"></a></code>
+### 🛠 &nbsp;Tech Stack
+![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat-square&logo=arch-linux)&nbsp;
+![Shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat-square&logo=powershell)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat-square&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Lua-141a20?style=flat-square&logo=lua)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat-square&logo=OpenJDK&logoColor=FFA518)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat-square&logo=git)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-141a20?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
-<br>
+### ⚙️ &nbsp;GitHub Analytics
+![stats](https://github-readme-stats.vercel.app/api?username=goofy9506&theme=gotham&show_icons=true&border_color=2e3440)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goofy9506&layout=compact&exclude_repo=Goofy9506.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
-[![InstancedDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=InstancedDev&theme=midnight-purple&show_icons=true)](https://instancedweb.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InstancedDev&theme=midnight-purple&layout=compact)](https://instnacedweb.com)
+### 📫 &nbsp;Connect with Me
+[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
