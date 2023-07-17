@@ -19,4 +19,4 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goofy9506&layout=compact&exclude_repo=Goofy9506.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:instancedcontact@gmail.com)
+[![gmail](https://img.shields.io/badge/-instancedcontact@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:instancedcontact@gmail.com)
