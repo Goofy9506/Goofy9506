@@ -3,7 +3,6 @@
 - 💻 I'm currently working as backend developer
 
 ### 🛠 &nbsp;Tech Stack
-![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat-square&logo=arch-linux)&nbsp;
 ![Shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat-square&logo=powershell)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat-square&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Lua-141a20?style=flat-square&logo=lua)&nbsp;
