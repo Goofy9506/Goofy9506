@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Goofy <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+## Hi there 👋 I'm Goofy <img align="right" src="https://komarev.com/ghpvc/?username=Goofy9506&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently working as backend developer
 
